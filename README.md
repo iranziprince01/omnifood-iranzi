@@ -1,6 +1,9 @@
 # Omnifood - Iranzi Project
 ![omnifood-logo](https://github.com/iranziprince01/omnifood-iranzi/assets/116654088/ab8d3afd-f4e7-49c5-a865-f2f0fc6935ca)
 
+![image](https://github.com/iranziprince01/omnifood-iranzi/assets/116654088/91c3b079-f265-4c94-8d19-edfe9cb708f6)
+
+
 ## About Omnifood
 We are a technology company first, but with a major focus on consumer well-being through a healthy diet. Most people are very busy with their jobs, 
 family and friends, and other important activities, which doesn't leave much time for cooking. This might lead to a poor diet and lasting health consequences. 
@@ -8,6 +11,9 @@ We want to solve this problem by using an AI-centric approach. Users can use our
 and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners 
 to actually cook and deliver all meals from the generated meal plans, in selected cities. 
 All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
+
+## Official website link:
+[Omnifood-iranzi](https://omnifood-iranzi.netlify.app/)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)

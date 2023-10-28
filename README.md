@@ -67,14 +67,14 @@ The project follows a common folder structure for web applications:
 
 ## Technologies Used <a name="technologies-used"></a>
 * Front-end:
- ** React: JavaScript library for building user interfaces.
- ** HTML and CSS: For markup and styling.
+  * React: JavaScript library for building user interfaces.
+  * HTML and CSS: For markup and styling.
 * Back-end (API integration, not included in this repository):
- ** Node.js
- ** Express
- ** Netlify
+  * Node.js
+  * Express
+  * Netlify
 * Version Control:
- * Git and GitHub for code versioning and collaboration.
+  * Git and GitHub for code versioning and collaboration.
 
 ## Deployment <a name="deployment"></a>
 The deployment process varies depending on the hosting platform. Common options include Heroku, Vercel, 

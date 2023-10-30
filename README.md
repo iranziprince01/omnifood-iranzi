@@ -13,7 +13,7 @@ to actually cook and deliver all meals from the generated meal plans, in selecte
 All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
 ## Official website link:
-Click here to navigate to the site: <a href="[Omnifood-iranzi](https://omnifood-iranzi.netlify.app/)" target="_blank"></a>
+Click here to navigate to the site: [Omnifood-iranzi](https://omnifood-iranzi.netlify.app/){:target="_blank"}
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
